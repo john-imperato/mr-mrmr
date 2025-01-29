@@ -1,7 +1,7 @@
 # mr-mrmr
 Model Refinement for Mark-Recapture Miscellany in R. 
 
-This repository is home to various adaptations of the mrmr R package (snarl1.github.io/mrmr/index.html). 
+This repository is home to various adaptations of the mrmr R package (https://github.com/SNARL1/mrmr). 
 Mrmr, developed by Maxwell B Joseph, automates data processing steps for the analysis of robust design capture-mark-recapture data and fits a Jolly-Seber CMR model implemented in a Bayesian statistical framework.
 The model is designed particularly for the needs of the Mountain Lakes Research Group (MLRG), and should not be used as a general purpose mark-recapture modeling toolbox. 
 
